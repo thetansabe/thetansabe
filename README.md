@@ -13,7 +13,7 @@ I'm a software engineer with 3 years of experience learning to break through.
 ### My stats ⭐
 
 <div align="center">
-<img alt="Thetan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thetansabe&show_icons=true&hide_rank=true&include_all_commits=true&hide=issues"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetansabe&layout=compact&&langs_count=6"/>
+<img alt="Thetan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thetansabe&show_icons=true&hide_rank=true&include_all_commits=true&hide=issues&theme=react"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetansabe&layout=compact&&langs_count=6&theme=react"/>
 </div>
 
